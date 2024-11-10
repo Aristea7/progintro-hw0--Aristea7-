@@ -3,3 +3,4 @@ byte0: Προκειμένου να ανοίξω όλους τους φακέλο
 byte1: Χρησιμοποίησα την εντολή man για να καταλάβω πως λειτουργεί η εντολή supercalifragilisticexpialidocious.
 byte2: Πληκτρολόγησα grep -r "will find" αφού γνωρίζουμε πως το κρυφό κείμενο περιέχει το string "will find"
 byte3: Για να βρω την λέξη του αυθεντικού αρχείου που άλλαξε με μια καινούρια χρησιμοποίησα την εντολή: diff shakespeare.txt shakespeare.modified.txt
+byte4: Πληκτρολόγησα find /home/byte4 -type f -name "cup.txt" και μετά χρησιμοποίησα την εντολή cat
