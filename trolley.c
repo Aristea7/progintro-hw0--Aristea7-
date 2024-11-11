@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
-    long long left_cost, right_cost;
+    long int left_cost, right_cost;
 
     while (1) {
         // Ζητάμε από τον χρήστη το κόστος για την αριστερή επιλογή
@@ -19,10 +19,10 @@ int main() {
         }
 
         // Επιλογή της καλύτερης κατεύθυνσης
-        if (left_cost < right_cost) {
+        if (left_cost <= right_cost) {
             printf("Go left.\n");
         } else {
-            printf("Go right.\n");
+            printf("Go right \n");
         }
     }
     return 0;
