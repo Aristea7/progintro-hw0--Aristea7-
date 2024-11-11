@@ -5,3 +5,4 @@ byte3: players changes to programmers
 byte4: you_just_found_the_triwizzard_cup
 byte6: unzipping_was_never_so_easy
 byte7: tar_jokes_dont_stick
+byte8: no_more_secrets_from_you
